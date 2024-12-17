@@ -26,8 +26,8 @@ In AI-related projects, prompts are a fundamental part of interacting with langu
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/seylitanez/template-engine.git
+cd template-engine
 ``` 
 
 ``` js
